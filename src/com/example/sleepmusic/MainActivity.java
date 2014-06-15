@@ -27,6 +27,8 @@ public class MainActivity extends Activity implements SensorEventListener{
 
     private Handler mHandler = new Handler();
 	
+    
+    // MOIN MOIN 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
